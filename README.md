@@ -257,6 +257,7 @@ chrome://settings/help
 DALLE3 API is licensed under the MIT License. See the [LICENSE](https://domain.apac.ai/LICENSE) file for more details.
 
 # Todo
+- [ ] Throw an error in get_urls() when a prompt gets censored
 - [ ] Add Automatic cookie finding seamlessly
 - [ ] Automatically upgrade chrome to 118
 - [ ] Add automatic browser detection, cross browser
